@@ -1,0 +1,2 @@
+{"version":"1.0.0","results":{"@sap/di.code-validation.js":{"issues":{"webapp/localService/mockserver.js":[{"category":"Possible Error","checker":"ESLint","column":3,"helpUrl":"http://eslint.org/docs/rules/valid-jsdoc","line":115,"message":"Missing JSDoc+
+ return description.","path":"webapp/localService/mockserver.js","ruleId":"valid-jsdoc","severity":"info"}]}},"@sap/di.code-validation.xml":{"issues":{}},"@sap/di.code-validation.json":{"issues":{}}}}                                                       

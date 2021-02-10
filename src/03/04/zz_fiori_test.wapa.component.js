@@ -1,0 +1,1 @@
+sap.ui.define(["sap/suite/ui/generic/template/lib/AppComponent"],function(e){return e.extend("fiori_test.fiori_test.Component",{metadata:{manifest:"json"}})});                                                                                                
