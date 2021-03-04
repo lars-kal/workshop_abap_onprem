@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSH" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEAD>
+    <NAME>728E2FB50252A39C5C0ED00324A19B</NAME>
+    <TYPE>HT</TYPE>
+    <DISPLAY_NAME>R3TR SAPC ZLS09040102_APC_01</DISPLAY_NAME>
+    <SRCSYSTEM>SH1</SRCSYSTEM>
+    <AUTHOR>KALDEWEY</AUTHOR>
+    <DEVCLASS>$ZPKAL09_04_01_02</DEVCLASS>
+   </HEAD>
+  </asx:values>
+ </asx:abap>
+</abapGit>

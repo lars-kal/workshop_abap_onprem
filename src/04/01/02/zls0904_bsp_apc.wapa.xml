@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_WAPA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ATTRIBUTES>
+    <APPLNAME>ZLS0904_BSP_APC</APPLNAME>
+    <APPLEXT>ZLS0904_BSP_APC</APPLEXT>
+    <SECURITY>X</SECURITY>
+    <ORIGLANG>E</ORIGLANG>
+    <MODIFLANG>E</MODIFLANG>
+    <TEXT>apc handler frontend</TEXT>
+   </ATTRIBUTES>
+   <PAGES>
+    <item>
+     <ATTRIBUTES>
+      <APPLNAME>ZLS0904_BSP_APC</APPLNAME>
+      <PAGEKEY>INDEX.HTML</PAGEKEY>
+      <PAGENAME>index.html</PAGENAME>
+      <MIMETYPE>text/html</MIMETYPE>
+      <IS_START_PAGE>X</IS_START_PAGE>
+      <LAYOUTLANGU>E</LAYOUTLANGU>
+      <VERSION>A</VERSION>
+      <LANGU>E</LANGU>
+      <DESCRIPT>start</DESCRIPT>
+     </ATTRIBUTES>
+    </item>
+   </PAGES>
+  </asx:values>
+ </asx:abap>
+</abapGit>

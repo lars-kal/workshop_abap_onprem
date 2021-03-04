@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SAPC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SAPC>
+    <HEADER>
+     <APPLICATION_ID>ZLS09040102_APC_01</APPLICATION_ID>
+     <VERSION>A</VERSION>
+     <PATH>/sap/bc/apc/sap/zls09040102_apc_01</PATH>
+     <CLASS_NAME>ZCL_APC_WSP_EXT_ZLS09040102_AP</CLASS_NAME>
+     <APPLICATION_VERSION>1</APPLICATION_VERSION>
+    </HEADER>
+    <TEXT>
+     <APPLICATION_ID>ZLS09040102_APC_01</APPLICATION_ID>
+     <VERSION>A</VERSION>
+     <LANG>E</LANG>
+     <DESCRIPTION>apc middleware</DESCRIPTION>
+    </TEXT>
+   </SAPC>
+  </asx:values>
+ </asx:abap>
+</abapGit>
