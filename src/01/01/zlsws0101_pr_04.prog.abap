@@ -138,3 +138,12 @@ START-OF-SELECTION.
   WRITE : 'Memory usage of Un-Boxed Internal Table ', lv_size.
 
 *  cl_abap_memory_utilities=>do_garbage_collection( ).
+
+
+*  exporting
+**    connection         =
+*    requested_features =
+**  receiving
+**    supports_features  =
+*).
+*catch cx_abap_invalid_param_value.
